@@ -6,11 +6,11 @@ namespace PetfolioApplication.UseCases.Pet.Register;
 public  class RegisterPetUseCase
 {
 
-    public ResponseRegisteredPetJson Execute(RequestRegisterPetJson request)
+    public ResponseRegisteredPetJson Execute(RequestPetJson request)
     {
         return new ResponseRegisteredPetJson
         {
-            Id = Guid.NewGuid(),
+            Id = 7,
             Name = request.Name,
         };
     }
