@@ -1,0 +1,15 @@
+C:\Users\DoQR\source\repos\Petfolio\Petfolio.Communication\bin\Debug\net10.0\Petfolio.Communication.deps.json
+C:\Users\DoQR\source\repos\Petfolio\Petfolio.Communication\bin\Debug\net10.0\Petfolio.Communication.dll
+C:\Users\DoQR\source\repos\Petfolio\Petfolio.Communication\bin\Debug\net10.0\Petfolio.Communication.pdb
+C:\Users\DoQR\source\repos\Petfolio\Petfolio.Communication\bin\Debug\net10.0\PetfolioApplication.dll
+C:\Users\DoQR\source\repos\Petfolio\Petfolio.Communication\bin\Debug\net10.0\PetfolioApplication.pdb
+C:\Users\DoQR\source\repos\Petfolio\Petfolio.Communication\obj\Debug\net10.0\Petfolio.Communication.csproj.AssemblyReference.cache
+C:\Users\DoQR\source\repos\Petfolio\Petfolio.Communication\obj\Debug\net10.0\Petfolio.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DoQR\source\repos\Petfolio\Petfolio.Communication\obj\Debug\net10.0\Petfolio.Communication.AssemblyInfoInputs.cache
+C:\Users\DoQR\source\repos\Petfolio\Petfolio.Communication\obj\Debug\net10.0\Petfolio.Communication.AssemblyInfo.cs
+C:\Users\DoQR\source\repos\Petfolio\Petfolio.Communication\obj\Debug\net10.0\Petfolio.Communication.csproj.CoreCompileInputs.cache
+C:\Users\DoQR\source\repos\Petfolio\Petfolio.Communication\obj\Debug\net10.0\Petfolio.44C87AC7.Up2Date
+C:\Users\DoQR\source\repos\Petfolio\Petfolio.Communication\obj\Debug\net10.0\Petfolio.Communication.dll
+C:\Users\DoQR\source\repos\Petfolio\Petfolio.Communication\obj\Debug\net10.0\refint\Petfolio.Communication.dll
+C:\Users\DoQR\source\repos\Petfolio\Petfolio.Communication\obj\Debug\net10.0\Petfolio.Communication.pdb
+C:\Users\DoQR\source\repos\Petfolio\Petfolio.Communication\obj\Debug\net10.0\ref\Petfolio.Communication.dll

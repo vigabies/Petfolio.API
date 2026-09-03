@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Petfolio.Communication/1.0.0": {
+        "dependencies": {
+          "PetfolioApplication": "1.0.0"
+        },
+        "runtime": {
+          "Petfolio.Communication.dll": {}
+        }
+      },
+      "PetfolioApplication/1.0.0": {
+        "runtime": {
+          "PetfolioApplication.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Petfolio.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PetfolioApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

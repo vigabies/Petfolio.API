@@ -1,0 +1,11 @@
+C:\Users\DoQR\source\repos\Petfolio\PetfolioApplication\bin\Debug\net10.0\PetfolioApplication.deps.json
+C:\Users\DoQR\source\repos\Petfolio\PetfolioApplication\bin\Debug\net10.0\PetfolioApplication.dll
+C:\Users\DoQR\source\repos\Petfolio\PetfolioApplication\bin\Debug\net10.0\PetfolioApplication.pdb
+C:\Users\DoQR\source\repos\Petfolio\PetfolioApplication\obj\Debug\net10.0\PetfolioApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DoQR\source\repos\Petfolio\PetfolioApplication\obj\Debug\net10.0\PetfolioApplication.AssemblyInfoInputs.cache
+C:\Users\DoQR\source\repos\Petfolio\PetfolioApplication\obj\Debug\net10.0\PetfolioApplication.AssemblyInfo.cs
+C:\Users\DoQR\source\repos\Petfolio\PetfolioApplication\obj\Debug\net10.0\PetfolioApplication.csproj.CoreCompileInputs.cache
+C:\Users\DoQR\source\repos\Petfolio\PetfolioApplication\obj\Debug\net10.0\PetfolioApplication.dll
+C:\Users\DoQR\source\repos\Petfolio\PetfolioApplication\obj\Debug\net10.0\refint\PetfolioApplication.dll
+C:\Users\DoQR\source\repos\Petfolio\PetfolioApplication\obj\Debug\net10.0\PetfolioApplication.pdb
+C:\Users\DoQR\source\repos\Petfolio\PetfolioApplication\obj\Debug\net10.0\ref\PetfolioApplication.dll
