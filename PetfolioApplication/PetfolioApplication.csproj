@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="UseCases\Pet\Register\" />
+    <ProjectReference Include="..\Petfolio.Communication\Petfolio.Communication.csproj" />
   </ItemGroup>
 
 </Project>

@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Petfolio.Communication\Petfolio.Communication.csproj" />
+    <ProjectReference Include="..\PetfolioApplication\PetfolioApplication.csproj" />
   </ItemGroup>
 
 </Project>

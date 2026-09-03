@@ -117,9 +117,6 @@
       "Petfolio.Communication/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
-        "dependencies": {
-          "PetfolioApplication": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/Petfolio.Communication.dll": {}
         },
@@ -130,6 +127,9 @@
       "PetfolioApplication/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Petfolio.Communication": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/PetfolioApplication.dll": {}
         },
@@ -528,6 +528,7 @@
     "net10.0": [
       "Microsoft.AspNetCore.OpenApi >= 10.0.11",
       "Petfolio.Communication >= 1.0.0",
+      "PetfolioApplication >= 1.0.0",
       "Swashbuckle.AspNetCore >= 10.2.3"
     ]
   },
@@ -566,6 +567,9 @@
           "projectReferences": {
             "C:\\Users\\DoQR\\source\\repos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj": {
               "projectPath": "C:\\Users\\DoQR\\source\\repos\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj"
+            },
+            "C:\\Users\\DoQR\\source\\repos\\Petfolio\\PetfolioApplication\\PetfolioApplication.csproj": {
+              "projectPath": "C:\\Users\\DoQR\\source\\repos\\Petfolio\\PetfolioApplication\\PetfolioApplication.csproj"
             }
           }
         }
