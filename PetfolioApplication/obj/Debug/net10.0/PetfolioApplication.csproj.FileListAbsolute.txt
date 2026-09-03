@@ -9,3 +9,4 @@ C:\Users\DoQR\source\repos\Petfolio\PetfolioApplication\obj\Debug\net10.0\Petfol
 C:\Users\DoQR\source\repos\Petfolio\PetfolioApplication\obj\Debug\net10.0\refint\PetfolioApplication.dll
 C:\Users\DoQR\source\repos\Petfolio\PetfolioApplication\obj\Debug\net10.0\PetfolioApplication.pdb
 C:\Users\DoQR\source\repos\Petfolio\PetfolioApplication\obj\Debug\net10.0\ref\PetfolioApplication.dll
+C:\Users\DoQR\source\repos\Petfolio\PetfolioApplication\obj\Debug\net10.0\PetfolioApplication.sourcelink.json

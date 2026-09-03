@@ -13,3 +13,4 @@ C:\Users\DoQR\source\repos\Petfolio\Petfolio.Communication\obj\Debug\net10.0\Pet
 C:\Users\DoQR\source\repos\Petfolio\Petfolio.Communication\obj\Debug\net10.0\refint\Petfolio.Communication.dll
 C:\Users\DoQR\source\repos\Petfolio\Petfolio.Communication\obj\Debug\net10.0\Petfolio.Communication.pdb
 C:\Users\DoQR\source\repos\Petfolio\Petfolio.Communication\obj\Debug\net10.0\ref\Petfolio.Communication.dll
+C:\Users\DoQR\source\repos\Petfolio\Petfolio.Communication\obj\Debug\net10.0\Petfolio.Communication.sourcelink.json

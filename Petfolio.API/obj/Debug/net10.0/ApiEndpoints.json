@@ -3,19 +3,19 @@
     "ContainingType": "Petfolio.API.Controllers.PetController",
     "Method": "Register",
     "RelativePath": "api/Pet",
-    "HttpMethod": "GET",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "request",
-        "Type": "Petfolio.Communication.Responses.ResponseRegisterPetJson",
+        "Type": "Petfolio.Communication.Requests.RequestRegisterPetJson",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Petfolio.Communication.Responses.ResponseRegisterPetJson",
+        "Type": "Petfolio.Communication.Responses.ResponseRegisteredPetJson",
         "MediaTypes": [
           "text/plain",
           "application/json",

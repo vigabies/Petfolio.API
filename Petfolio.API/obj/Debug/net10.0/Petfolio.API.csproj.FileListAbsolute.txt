@@ -39,3 +39,4 @@ C:\Users\DoQR\source\repos\Petfolio\Petfolio.API\obj\Debug\net10.0\refint\Petfol
 C:\Users\DoQR\source\repos\Petfolio\Petfolio.API\obj\Debug\net10.0\Petfolio.API.pdb
 C:\Users\DoQR\source\repos\Petfolio\Petfolio.API\obj\Debug\net10.0\Petfolio.API.genruntimeconfig.cache
 C:\Users\DoQR\source\repos\Petfolio\Petfolio.API\obj\Debug\net10.0\ref\Petfolio.API.dll
+C:\Users\DoQR\source\repos\Petfolio\Petfolio.API\obj\Debug\net10.0\Petfolio.API.sourcelink.json

@@ -6,7 +6,7 @@
   },
   "paths": {
     "/api/Pet": {
-      "get": {
+      "post": {
         "tags": [
           "Pet"
         ],
@@ -14,17 +14,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/ResponseRegisterPetJson"
+                "$ref": "#/components/schemas/RequestRegisterPetJson"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/ResponseRegisterPetJson"
+                "$ref": "#/components/schemas/RequestRegisterPetJson"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/ResponseRegisterPetJson"
+                "$ref": "#/components/schemas/RequestRegisterPetJson"
               }
             }
           }
@@ -35,17 +35,17 @@
             "content": {
               "text/plain": {
                 "schema": {
-                  "$ref": "#/components/schemas/ResponseRegisterPetJson"
+                  "$ref": "#/components/schemas/ResponseRegisteredPetJson"
                 }
               },
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/ResponseRegisterPetJson"
+                  "$ref": "#/components/schemas/ResponseRegisteredPetJson"
                 }
               },
               "text/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/ResponseRegisterPetJson"
+                  "$ref": "#/components/schemas/ResponseRegisteredPetJson"
                 }
               }
             }
@@ -56,7 +56,32 @@
   },
   "components": {
     "schemas": {
-      "ResponseRegisterPetJson": {
+      "PetType": {
+        "enum": [
+          0,
+          1
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "RequestRegisterPetJson": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "birthday": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "type": {
+            "$ref": "#/components/schemas/PetType"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ResponseRegisteredPetJson": {
         "type": "object",
         "properties": {
           "id": {
